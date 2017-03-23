@@ -1,0 +1,16 @@
+E:\Shovan's Documents\My Documents\Visual Studio 2008\Projects\3d Box\3d Box\obj\Debug\ResolveAssemblyReference.cache
+E:\Shovan's Documents\My Documents\Visual Studio 2008\Projects\3d Box\3d Box\obj\Debug\_3d_Box.Form1.resources
+E:\Shovan's Documents\My Documents\Visual Studio 2008\Projects\3d Box\3d Box\obj\Debug\_3d_Box.Properties.Resources.resources
+E:\Shovan's Documents\My Documents\Visual Studio 2008\Projects\3d Box\3d Box\obj\Debug\3d Box.csproj.GenerateResource.Cache
+E:\Shovan's Documents\My Documents\Visual Studio 2008\Projects\3d Box\3d Box\bin\Debug\3d Box.exe
+E:\Shovan's Documents\My Documents\Visual Studio 2008\Projects\3d Box\3d Box\bin\Debug\3d Box.pdb
+E:\Shovan's Documents\My Documents\Visual Studio 2008\Projects\3d Box\3d Box\obj\Debug\3d Box.exe
+E:\Shovan's Documents\My Documents\Visual Studio 2008\Projects\3d Box\3d Box\obj\Debug\3d Box.pdb
+D:\Shovan's Documents\My Documents\Visual Studio 2008\Projects\3d Box\3d Box\obj\Debug\3d Box.exe
+D:\Shovan's Documents\My Documents\Visual Studio 2008\Projects\3d Box\3d Box\obj\Debug\3d Box.pdb
+D:\Shovan's Documents\My Documents\Visual Studio 2008\Projects\3d Box\3d Box\bin\Debug\3d Box.exe
+D:\Shovan's Documents\My Documents\Visual Studio 2008\Projects\3d Box\3d Box\bin\Debug\3d Box.pdb
+D:\Shovan's Documents\My Documents\Visual Studio 2008\Projects\3d Box\3d Box\obj\Debug\ResolveAssemblyReference.cache
+D:\Shovan's Documents\My Documents\Visual Studio 2008\Projects\3d Box\3d Box\obj\Debug\_3d_Box.Form1.resources
+D:\Shovan's Documents\My Documents\Visual Studio 2008\Projects\3d Box\3d Box\obj\Debug\_3d_Box.Properties.Resources.resources
+D:\Shovan's Documents\My Documents\Visual Studio 2008\Projects\3d Box\3d Box\obj\Debug\3d Box.csproj.GenerateResource.Cache
